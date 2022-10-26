@@ -1,0 +1,10 @@
+R:\DYOUV\ICS4U102 McGuire\Homework\Rego, Jared\Task 2\Task 2\bin\Debug\Task 2.exe
+R:\DYOUV\ICS4U102 McGuire\Homework\Rego, Jared\Task 2\Task 2\bin\Debug\Task 2.pdb
+R:\DYOUV\ICS4U102 McGuire\Homework\Rego, Jared\Task 2\Task 2\obj\x86\Debug\Task 2.exe
+R:\DYOUV\ICS4U102 McGuire\Homework\Rego, Jared\Task 2\Task 2\obj\x86\Debug\Task 2.pdb
+R:\DYOUV\ICS4U102 McGuire\Homework\Rego, Jared\Task 2\Task 2\obj\x86\Debug\Task 2.csprojResolveAssemblyReference.cache
+F:\Task 2\Task 2\obj\x86\Debug\Task 2.exe
+F:\Task 2\Task 2\obj\x86\Debug\Task 2.pdb
+F:\Task 2\Task 2\bin\Debug\Task 2.exe
+F:\Task 2\Task 2\bin\Debug\Task 2.pdb
+F:\Task 2\Task 2\obj\x86\Debug\Task 2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+R:\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\IntroTask5\IntroTask5\IntroTask5\bin\Debug\IntroTask5.exe
+R:\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\IntroTask5\IntroTask5\IntroTask5\bin\Debug\IntroTask5.pdb
+R:\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.exe
+R:\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.pdb
+R:\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.csprojResolveAssemblyReference.cache
+\\Client\R$\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\Intro Tasks\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.exe
+\\Client\R$\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\Intro Tasks\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.pdb
+\\Client\R$\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\Intro Tasks\IntroTask5\IntroTask5\IntroTask5\bin\Debug\IntroTask5.exe
+\\Client\R$\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\Intro Tasks\IntroTask5\IntroTask5\IntroTask5\bin\Debug\IntroTask5.pdb
+\\Client\R$\DYOUV\ICS4U 2015\Homework\Pabla, Jasnit\Intro Tasks\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.csprojResolveAssemblyReference.cache
+\\Client\R$\DYOUV\ICS4U 2015\Assignments\UNIT 1 - INTRO AND ISU\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.exe
+\\Client\R$\DYOUV\ICS4U 2015\Assignments\UNIT 1 - INTRO AND ISU\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.pdb
+G:\Review Tasks\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.exe
+G:\Review Tasks\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.pdb
+F:\Review Tasks\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.exe
+F:\Review Tasks\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.pdb
+F:\Review Tasks\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\bin\Debug\IntroTask5.exe
+F:\Review Tasks\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\bin\Debug\IntroTask5.pdb
+F:\Review Tasks\Task 5 Solution (Courtesy of Jasnit)\IntroTask5\IntroTask5\IntroTask5\obj\x86\Debug\IntroTask5.csprojResolveAssemblyReference.cache
